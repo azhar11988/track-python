@@ -1,0 +1,8 @@
+{
+    "objectscript.conn": {
+        "active": false
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
+}
